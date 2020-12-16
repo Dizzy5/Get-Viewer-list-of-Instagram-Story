@@ -6,8 +6,6 @@ This program enables you to pull your list of viewers in your story on instagram
 * uuid
 
 ## ScreenShot
-GUI Screenshot
-
 <img src="https://github.com/Dizzy5/Get-Viewer-list-of-Story-Instagram/blob/master/img.png" width="600">
 
 
